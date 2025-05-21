@@ -1,1 +1,1 @@
-#Multi-Client Arithmetic TCP Server in Python
+# Multi-Client Arithmetic Socket Server in Python
